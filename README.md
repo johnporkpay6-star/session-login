@@ -25,4 +25,5 @@ How to Use
 3. Paste your Session ID into the input field.
 
 4. Click Login. The mod will refresh your current session.
+
 contact theoilooc on dc for problems
